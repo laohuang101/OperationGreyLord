@@ -1,5 +1,10 @@
-A small research of Operation greylord
+## A small research of Operation greylord [Still updating .zzZ]
 
+### People & Cases Involved:
+ https://github.com/laohuang101/OperationGreyLord/blob/main/People%26CasesInvolved.md
+
+### Summury based on research
+https://github.com/laohuang101/OperationGreyLord/blob/main/Sum.md 
 
 ### Mats Sources
 Sources: 
